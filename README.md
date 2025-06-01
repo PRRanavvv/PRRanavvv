@@ -1,4 +1,4 @@
-# Hi there, I'm Pranav Rana! 👋
+# Hey there, I'm Pranav 👋
 
 ## 🚀 About Me
 
