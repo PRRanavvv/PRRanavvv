@@ -51,7 +51,7 @@ Currently building AI-powered FinTech solutions and quantitative research tools 
 - Built using **Python**, **Scikit-Learn**, and **Pandas**
 - Features data preprocessing, model training, and performance evaluation
 
-### 😴 Sleep Stage Classification  (still working on it)
+### 😴 Sleep Stage Classification  (initial phase)
 *Deep Learning Project*
 - Neural network model for classifying different sleep stages
 - Implemented using **TensorFlow/PyTorch** with signal processing
