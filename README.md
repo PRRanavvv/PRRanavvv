@@ -3,8 +3,9 @@
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranav-rana-141565213)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranavrana366@gmail.com)
 [![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/PRanav77377)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranavrana366@gmail.com)
+
 
 </div>
 
@@ -16,7 +17,7 @@ I'm passionate about the intersection of **Artificial Intelligence and Finance**
 
 ## 💼 What I'm Working On
 
-Currently building AI-powered FinTech solutions and quantitative research tools as a **Freelance Software Developer**. I'm developing:
+Currently building AI-powered FinTech solutions and quantitative research tools as a **Freelance Software Developer*. I'm developing:
 
 - 🤖 **AI-enhanced e-commerce platforms** with ML-based recommendations
 - 📊 **Financial dashboards** with real-time API integration  
@@ -38,19 +39,19 @@ Currently building AI-powered FinTech solutions and quantitative research tools 
 - Features restaurant listings, dynamic menus, and real-time cart updates
 - Optimized for performance and cross-device compatibility
 
-### 📺 ChaiTube
+### 🍵 ChaiTube
 *Video Streaming Platform*
 - YouTube-inspired platform with modern UI/UX design
 - Built with **React.js** and **Tailwind CSS**
 - Features video playback, search functionality, and responsive design
 
-### 🚗 Car Purchase Amount Predictor
+### 🚗 Car Purchase Amount Predictor (final phase)
 *Machine Learning Project*
 - ML model to predict optimal car purchase amounts based on user data
 - Built using **Python**, **Scikit-Learn**, and **Pandas**
 - Features data preprocessing, model training, and performance evaluation
 
-### 😴 Sleep Stage Classification  
+### 😴 Sleep Stage Classification  (still working on it)
 *Deep Learning Project*
 - Neural network model for classifying different sleep stages
 - Implemented using **TensorFlow/PyTorch** with signal processing
@@ -123,7 +124,3 @@ Always interested in collaborating on **AI/ML projects**, **FinTech innovations*
 <div align="center">
 
 **📍 Delhi, India | 🎓 BTech CSE (AI/ML) @ MUJ**
-
-[![Profile Views](https://komarev.com/ghpvc/?username=pranavrana&color=blueviolet&style=flat-square)](https://github.com/pranavrana)
-
-</div>
