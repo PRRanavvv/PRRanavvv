@@ -12,15 +12,17 @@
 
 **Aspiring AI & ML Engineer | Full-Stack Developer | FinTech Enthusiast**
 
-I'm passionate about the intersection of **Artificial Intelligence and Finance**, aspiring to become a **Quantitative Researcher**. Currently pursuing BTech in CSE (AI/ML) at Manipal University Jaipur with expertise in full-stack development and AI-driven solutions.
+I'm passionate about the intersection of **Artificial Intelligence and Finance**, aspiring to become a **Quantitative Researcher**. Currently pursuing BTech in CSE (AI/ML) at Manipal University Jaipur.
 
-## 💼 Current Role
+## 💼 What I'm Working On
 
-**Freelance Software Developer** | *March 2025 - Present*
-- Building custom web applications with **React.js**, **Node.js**, and **Firebase/PostgreSQL**
-- Creating AI-powered chatbots and NLP-based tools using **Python** and **ML libraries**
-- Developing interactive financial dashboards with real-time API integration
-- Implementing responsive designs with **Tailwind CSS**
+Currently building AI-powered FinTech solutions and quantitative research tools as a **Freelance Software Developer**. I'm developing:
+
+- 🤖 **AI-enhanced e-commerce platforms** with ML-based recommendations
+- 📊 **Financial dashboards** with real-time API integration  
+- 🧠 **ML models** for market prediction and risk assessment
+- 🌐 **Full-stack applications** using React.js, Node.js, and modern frameworks
+- 💬 **AI-powered chatbots** and NLP-based tools
 
 ## 🏗️ Featured Projects
 
@@ -35,6 +37,24 @@ I'm passionate about the intersection of **Artificial Intelligence and Finance**
 - Swiggy-inspired platform built with **React.js** and **Tailwind CSS**
 - Features restaurant listings, dynamic menus, and real-time cart updates
 - Optimized for performance and cross-device compatibility
+
+### 📺 ChaiTube
+*Video Streaming Platform*
+- YouTube-inspired platform with modern UI/UX design
+- Built with **React.js** and **Tailwind CSS**
+- Features video playback, search functionality, and responsive design
+
+### 🚗 Car Purchase Amount Predictor
+*Machine Learning Project*
+- ML model to predict optimal car purchase amounts based on user data
+- Built using **Python**, **Scikit-Learn**, and **Pandas**
+- Features data preprocessing, model training, and performance evaluation
+
+### 😴 Sleep Stage Classification  
+*Deep Learning Project*
+- Neural network model for classifying different sleep stages
+- Implemented using **TensorFlow/PyTorch** with signal processing
+- Applied to EEG data analysis for sleep pattern recognition
 
 ## 🛠️ Tech Stack
 
@@ -77,13 +97,6 @@ I'm passionate about the intersection of **Artificial Intelligence and Finance**
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)  
 
-## 🏆 Key Achievements
-
-- **🥇 1st Place** - IEEE IC Hack 2.0 (300+ teams)
-- **🏅 Finalist** - MUJ HACKATHON 2023 & DATATHON 2024
-- **💻 200+ DSA Problems** solved on LeetCode
-- **📜 Microsoft Certified** - Machine Learning Systems Administrator
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -100,13 +113,6 @@ I'm passionate about the intersection of **Artificial Intelligence and Finance**
 - **Web Development**: Full-Stack (MERN), Performance Optimization, Responsive Design
 - **FinTech**: Quantitative Analysis, Financial Data Analysis, Trading Algorithms
 - **Cloud & DevOps**: Azure, Firebase, Database Management
-
-## 💡 What I'm Building
-
-- 🤖 AI-powered FinTech solutions for trading and analysis
-- 📊 Quantitative research tools and financial models
-- 🌐 High-performance web applications with modern frameworks
-- 📈 ML models for market prediction and risk assessment
 
 ## 🤝 Let's Connect!
 
