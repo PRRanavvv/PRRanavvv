@@ -38,7 +38,7 @@ Currently building AI-powered FinTech solutions and quantitative research tools 
 - Built with **React.js** and **Tailwind CSS**
 - Features video playback, search functionality, and responsive design
 
-### 🚗 Car Purchase Amount Predictor (final phase)
+### 🚗 Purchase-Pulse (final phase)
 *Machine Learning Project*
 - ML model to predict optimal car purchase amounts based on user data
 - Built using **Python**, **Scikit-Learn**, and **Pandas**
