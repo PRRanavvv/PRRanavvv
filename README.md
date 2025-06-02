@@ -8,7 +8,7 @@ I'm passionate about the fusion of **Artificial Intelligence with Finance & Medi
 
 ## 💼 What I'm Working On
 
-Currently building AI-powered FinTech solutions and quantitative research tools as a **Freelance Software Developer*. I'm developing:
+Currently building AI-powered FinTech solutions and quantitative research tools as a **Freelance Software Developer**. I'm developing:
 
 - 🤖 **AI-enhanced e-commerce platforms** with ML-based recommendations
 - 📊 **Financial dashboards** with real-time API integration  
@@ -17,6 +17,14 @@ Currently building AI-powered FinTech solutions and quantitative research tools 
 - 💬 **AI-powered chatbots** and NLP-based tools
 
 ## 🏗️ Featured Projects
+
+### 🎨 qrGPT
+*AI-Powered QR Code Generator*  
+- Revolutionary QR code generator that creates **visually stunning, artistic QR codes** using AI
+- Built with **Next.js**, **TypeScript**, and **Replicate AI** for advanced model inference
+- Features real-time generation, scalable storage with **Vercel Blob**, and rate limiting
+- Deployed on **Vercel** with edge computing for optimal performance
+- Combines traditional QR functionality with cutting-edge AI artistry
 
 ### 🍕 ReactResto
 *Food Delivery Web Application*  
@@ -66,19 +74,26 @@ Currently building AI-powered FinTech solutions and quantitative research tools 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Replicate](https://img.shields.io/badge/Replicate-000000?style=for-the-badge&logo=replicate&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 ### Backend & Databases
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Cloud & Tools
+### Cloud & Deployment
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+
+### Tools & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078d4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
 ## 📊 GitHub Stats
 
@@ -95,11 +110,11 @@ Currently building AI-powered FinTech solutions and quantitative research tools 
 - **AI/ML**: Neural Networks, NLP, User Behavior Analysis, Predictive Modeling
 - **Web Development**: Full-Stack (MERN), Performance Optimization, Responsive Design
 - **FinTech**: Quantitative Analysis, Financial Data Analysis, Trading Algorithms
-- **Cloud & DevOps**: Azure, Firebase, Database Management
+- **Cloud & DevOps**: Azure, Vercel, Firebase, Database Management
 
 ## 🤝 Let's Connect!
 
-Always interested in collaborating on **AI/ML projects**, **FinTech innovations**, and **frontent-dev**. Open to discussing opportunities in quantitative research and financial technology.
+Always interested in collaborating on **AI/ML projects**, **FinTech innovations**, and **frontend-dev**. Open to discussing opportunities in quantitative research and financial technology.
 
 ---
 
