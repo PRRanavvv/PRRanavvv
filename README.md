@@ -13,16 +13,10 @@ Currently building AI-powered FinTech solutions and quantitative research tools 
 - 🤖 **AI-enhanced e-commerce platforms** with ML-based recommendations
 - 📊 **Financial dashboards** with real-time API integration  
 - 🧠 **ML models** for market prediction and risk assessment
-- 🌐 **Full-stack applications** using React.js, Node.js, and modern frameworks
+- 🌐 **Personal Portfolio Website**
 - 💬 **AI-powered chatbots** and NLP-based tools
 
 ## 🏗️ Featured Projects
-
-### 🛒 Aizon (In Progress)
-*AI-Enhanced E-commerce Platform*
-- Amazon clone with **AI-powered search** and **ML-based recommendations**
-- Built with **React.js** and **Firebase** featuring user authentication and cart management
-- Implementing intelligent query processing and user behavior tracking
 
 ### 🍕 ReactResto
 *Food Delivery Web Application*  
