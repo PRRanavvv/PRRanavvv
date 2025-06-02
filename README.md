@@ -4,7 +4,7 @@
 
 **Aspiring AI & ML Engineer | Full-Stack Developer | FinTech Enthusiast**
 
-I'm passionate about the intersection of **Artificial Intelligence and Finance**, aspiring to become a **Quantitative Researcher**. Currently pursuing BTech in CSE (AI/ML) at Manipal University Jaipur.
+I'm passionate about the fusion of **Artificial Intelligence with Finance & Medical**, aspiring to become a **Quantitative Researcher**. Currently pursuing BTech in CSE (AI/ML) at Manipal University Jaipur.
 
 ## 💼 What I'm Working On
 
