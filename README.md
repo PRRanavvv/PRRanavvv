@@ -4,7 +4,7 @@
 
 **Aspiring AI & ML Engineer | Full-Stack Developer | FinTech Enthusiast**
 
-I'm passionate about the fusion of **Artificial Intelligence with Finance & Medical fields**, aspiring to become a **Quantitative Researcher**. I'm also pursuing my passion of Content Creation.
+I'm passionate about the fusion of **Artificial Intelligence with Finance & Medical fields**, aspiring to become a **Quantitative Researcher**. While pursuing my passion for Content Creation.
 
 ## 💼 What I'm Working On
 
