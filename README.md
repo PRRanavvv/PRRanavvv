@@ -18,7 +18,7 @@ Currently building AI-powered FinTech solutions and quantitative research tools 
 
 ## 🏗️ Featured Projects
 
-### 🎨 qrGPT
+### ♾️ qrGPT
 *AI-Powered QR Code Generator*  
 - Revolutionary QR code generator that creates **visually stunning, artistic QR codes** using AI
 - Built with **Next.js**, **TypeScript**, and **Replicate AI** for advanced model inference
@@ -75,7 +75,6 @@ Currently building AI-powered FinTech solutions and quantitative research tools 
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Replicate](https://img.shields.io/badge/Replicate-000000?style=for-the-badge&logo=replicate&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 ### Backend & Databases
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
