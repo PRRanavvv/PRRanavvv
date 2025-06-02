@@ -105,10 +105,10 @@ Currently building AI-powered FinTech solutions and quantitative research tools 
 
 ## 🤝 Let's Connect!
 
-Always interested in collaborating on **AI/ML projects**, **FinTech innovations**, and **full-stack development**. Open to discussing opportunities in quantitative research and financial technology.
+Always interested in collaborating on **AI/ML projects**, **FinTech innovations**, and **frontent-dev**. Open to discussing opportunities in quantitative research and financial technology.
 
 ---
 
 <div align="center">
 
-**📍 Delhi, India | 🎓 BTech CSE (AI/ML) @ MUJ**
+**📍New Delhi, India | 🎓 CSE (AI/ML) @ MUJ**
