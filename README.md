@@ -123,13 +123,7 @@ Currently building AI-powered FinTech solutions and quantitative research tools 
 - **AI/ML**: Neural Networks, NLP, User Behavior Analysis, Predictive Modeling
 - **Web Development**: Front-End Development (React/Next.js), Performance Optimization, Responsive Design  
 - **FinTech**: Quantitative Analysis, Financial Data Analysis, Trading Algorithms
-- **Cloud & DevOps**: Azure, Vercel, Firebase, Database Management
-
-## 🔥 Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
+- **Cloud & DevOps**: Azure, Vercel, Firebase, Database Management  
 Always interested in collaborating on **AI/ML projects**, **FinTech innovations**, and **frontend-dev**. Open to discussing opportunities in quantitative research and financial technology.
 
 ## 💡 Fun Facts
