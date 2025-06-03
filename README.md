@@ -110,7 +110,7 @@ Currently building AI-powered FinTech solutions and quantitative research tools 
 
 ## 🎯 Expertise Areas
 
-<div align="center">
+<div>
 
 - **AI/ML**: Neural Networks, NLP, User Behavior Analysis, Predictive Modeling
 - **Web Development**: Front-End Development (React/Next.js), Performance Optimization, Responsive Design  
