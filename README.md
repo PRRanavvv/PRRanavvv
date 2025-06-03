@@ -106,18 +106,6 @@ Currently building AI-powered FinTech solutions and quantitative research tools 
 ![Pranav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pranavrana&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavrana&layout=compact&theme=radical&hide_border=true&langs_count=8)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pranavrana&theme=radical&hide_border=true)
-
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=pranavrana&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7)
-
-</div>
-
 ## 🎯 Expertise Areas
 
 - **AI/ML**: Neural Networks, NLP, User Behavior Analysis, Predictive Modeling
