@@ -1,10 +1,24 @@
 # Hey there, I'm Pranav 👋
 
+<div align="center">
+  
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Aspiring+AI+%26+ML+Engineer;Full-Stack+Developer;FinTech+Enthusiast;Quantitative+Research+Passionate)
+
+</div>
+
 ## 🚀 About Me
 
 **Aspiring AI & ML Engineer | Full-Stack Developer | FinTech Enthusiast**
 
 I'm passionate about the fusion of **Artificial Intelligence with Finance & Medical fields**, aspiring to become a **Quantitative Researcher**. While pursuing my passion for Content Creation.
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=pranavrana&color=blueviolet&style=flat-square&label=Profile+Views)
+[![GitHub followers](https://img.shields.io/github/followers/pranavrana?logo=GitHub&style=flat-square)](https://github.com/pranavrana)
+[![GitHub stars](https://img.shields.io/github/stars/pranavrana?logo=GitHub&style=flat-square)](https://github.com/pranavrana)
+
+</div>
 
 ## 💼 What I'm Working On
 
@@ -39,10 +53,11 @@ Currently building AI-powered FinTech solutions and quantitative research tools 
 - Features video playback, search functionality, and responsive design
 
 ### 🚗 Purchase-Pulse (final phase)
-*Machine Learning Project*
-- ML model to predict optimal car purchase amounts based on user data
-- Built using **Python**, **Scikit-Learn**, and **Pandas**
-- Features data preprocessing, model training, and performance evaluation
+*Machine Learning Car Price Prediction System*
+- End-to-end ML system predicting car prices with **85% R² accuracy**
+- Engineered **6 advanced features** (power-to-weight ratio, performance scores)
+- Built with **Python**, **Scikit-Learn**, **Pandas** with modern **Tkinter GUI**
+- Implemented **5 regression algorithms** with automated model selection
 
 ### 😴 Sleep Stage Classification  (initial phase)
 *Deep Learning Project*
@@ -94,29 +109,76 @@ Currently building AI-powered FinTech solutions and quantitative research tools 
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
   
-![Pranav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pranavrana&show_icons=true&theme=radical&hide_border=true)
+![Pranav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pranavrana&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavrana&layout=compact&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pranavrana&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavrana&layout=compact&theme=radical&hide_border=true&langs_count=8)
+
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=pranavrana&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7)
+
+</div>
+
+## 📈 Contribution Graph
+
+<div align="center">
+  
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pranavrana&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f0f6fc&area=true&hide_border=true)
 
 </div>
 
 ## 🎯 Expertise Areas
 
 - **AI/ML**: Neural Networks, NLP, User Behavior Analysis, Predictive Modeling
-- **Web Development**: Full-Stack (MERN), Performance Optimization, Responsive Design
+- **Web Development**: Full-Stack (MERN), Performance Optimization, Responsive Design  
 - **FinTech**: Quantitative Analysis, Financial Data Analysis, Trading Algorithms
 - **Cloud & DevOps**: Azure, Vercel, Firebase, Database Management
 
+## 🔥 Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 ## 🤝 Let's Connect!
 
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pranavrana)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/pranavrana)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pranavrana)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://pranavrana.dev)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+
+</div>
+
 Always interested in collaborating on **AI/ML projects**, **FinTech innovations**, and **frontend-dev**. Open to discussing opportunities in quantitative research and financial technology.
+
+## 💡 Fun Facts
+
+- 🔭 Currently working on **AI-powered Financial Analytics Platform**
+- 🌱 Learning **Advanced Deep Learning** and **Quantitative Finance**
+- 👯 Looking to collaborate on **Open Source ML Projects**
+- 💬 Ask me about **Python, React, Machine Learning, or FinTech**
+- ⚡ Fun fact: I can debug code faster with coffee ☕
 
 ---
 
 <div align="center">
 
-**📍New Delhi, India | 🎓 CSE (AI/ML) @ MUJ**
+**📍 New Delhi, India | 🎓 CSE (AI/ML) @ MUJ**
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+*"Building the future with AI, one algorithm at a time"*
+
+</div>
