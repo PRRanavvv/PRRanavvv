@@ -2,13 +2,13 @@
 
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Aspiring+AI+%26+ML+Engineer;Full-Stack+Developer;FinTech+Enthusiast;Quantitative+Research+Passionate)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Aspiring+AI+%26+ML+Engineer;Front-End+Developer;Content+Creator;FinTech+Enthusiast;Quantitative+Research+Passionate)
 
 </div>
 
 ## 🚀 About Me
 
-**Aspiring AI & ML Engineer | Full-Stack Developer | FinTech Enthusiast**
+**Aspiring AI & ML Engineer | Front-End Developer | FinTech Enthusiast**
 
 I'm passionate about the fusion of **Artificial Intelligence with Finance & Medical fields**, aspiring to become a **Quantitative Researcher**. While pursuing my passion for Content Creation.
 
@@ -140,7 +140,7 @@ Currently building AI-powered FinTech solutions and quantitative research tools 
 ## 🎯 Expertise Areas
 
 - **AI/ML**: Neural Networks, NLP, User Behavior Analysis, Predictive Modeling
-- **Web Development**: Full-Stack (MERN), Performance Optimization, Responsive Design  
+- **Web Development**: Front-End Development (React/Next.js), Performance Optimization, Responsive Design  
 - **FinTech**: Quantitative Analysis, Financial Data Analysis, Trading Algorithms
 - **Cloud & DevOps**: Azure, Vercel, Firebase, Database Management
 
