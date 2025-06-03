@@ -112,21 +112,12 @@ Currently building AI-powered FinTech solutions and quantitative research tools 
 
 <div align="center">
 
-My expertise spans across **AI/ML** with focus on Neural Networks, NLP, User Behavior Analysis, and Predictive Modeling. In **Web Development**, I specialize in Front-End Development using React/Next.js, Performance Optimization, and Responsive Design. My **FinTech** experience includes Quantitative Analysis, Financial Data Analysis, and Trading Algorithms. I'm also skilled in **Cloud & DevOps** technologies including Azure, Vercel, Firebase, and Database Management.
+- **AI/ML**: Neural Networks, NLP, User Behavior Analysis, Predictive Modeling
+- **Web Development**: Front-End Development (React/Next.js), Performance Optimization, Responsive Design  
+- **FinTech**: Quantitative Analysis, Financial Data Analysis, Trading Algorithms
+- **Cloud & DevOps**: Azure, Vercel, Firebase, Database Management  
 
 Always interested in collaborating on **AI/ML projects**, **FinTech innovations**, and **frontend development**. Open to discussing opportunities in quantitative research and financial technology.
-
-</div>
-
-## 💡 Fun Facts
-
-<div align="center">
-
-🔭 Currently working on **AI-powered Financial Analytics Platform**  
-🌱 Learning **Advanced Deep Learning** and **Quantitative Finance**  
-👯 Looking to collaborate on **Open Source ML Projects**  
-💬 Ask me about **Python, React, Machine Learning, or FinTech**  
-⚡ Fun fact: I can debug code faster with coffee ☕
 
 </div>
 
