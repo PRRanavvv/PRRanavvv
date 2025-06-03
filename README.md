@@ -10,13 +10,9 @@
 
 **Aspiring AI & ML Engineer | Front-End Developer | FinTech Enthusiast**
 
-I'm passionate about the fusion of **Artificial Intelligence with Finance & Medical fields**, aspiring to become a **Quantitative Researcher**. While pursuing my passion for Content Creation.
+I'm passionate about the fusion of **Artificial Intelligence with Finance & Medical fields**, aspiring to become a **Quantitative Researcher**, while pursuing my passion for Content Creation.
 
 <div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=pranavrana&color=blueviolet&style=flat-square&label=Profile+Views)
-[![GitHub followers](https://img.shields.io/github/followers/pranavrana?logo=GitHub&style=flat-square)](https://github.com/pranavrana)
-[![GitHub stars](https://img.shields.io/github/stars/pranavrana?logo=GitHub&style=flat-square)](https://github.com/pranavrana)
 
 </div>
 
@@ -40,19 +36,13 @@ Currently building AI-powered FinTech solutions and quantitative research tools 
 - Deployed on **Vercel** with edge computing for optimal performance
 - Combines traditional QR functionality with cutting-edge AI artistry
 
-### 🍕 ReactResto
-*Food Delivery Web Application*  
-- Swiggy-inspired platform built with **React.js** and **Tailwind CSS**
-- Features restaurant listings, dynamic menus, and real-time cart updates
-- Optimized for performance and cross-device compatibility
-
 ### 🍵 ChaiTube
 *Video Streaming Platform*
 - YouTube-inspired platform with modern UI/UX design
 - Built with **React.js** and **Tailwind CSS**
 - Features video playback, search functionality, and responsive design
 
-### 🚗 Purchase-Pulse (final phase)
+### 🚗 Purchase-Pulse 
 *Machine Learning Car Price Prediction System*
 - End-to-end ML system predicting car prices with **85% R² accuracy**
 - Engineered **6 advanced features** (power-to-weight ratio, performance scores)
@@ -114,10 +104,9 @@ Currently building AI-powered FinTech solutions and quantitative research tools 
 <div align="center">
   
 ![Pranav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pranavrana&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavrana&layout=compact&theme=radical&hide_border=true&langs_count=8)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pranavrana&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavrana&layout=compact&theme=radical&hide_border=true&langs_count=8)
 
 </div>
 
@@ -126,14 +115,6 @@ Currently building AI-powered FinTech solutions and quantitative research tools 
 <div align="center">
   
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=pranavrana&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7)
-
-</div>
-
-## 📈 Contribution Graph
-
-<div align="center">
-  
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pranavrana&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f0f6fc&area=true&hide_border=true)
 
 </div>
 
@@ -148,18 +129,6 @@ Currently building AI-powered FinTech solutions and quantitative research tools 
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
-
-## 🤝 Let's Connect!
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pranavrana)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/pranavrana)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pranavrana)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://pranavrana.dev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-
-</div>
 
 Always interested in collaborating on **AI/ML projects**, **FinTech innovations**, and **frontend-dev**. Open to discussing opportunities in quantitative research and financial technology.
 
