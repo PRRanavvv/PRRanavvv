@@ -106,7 +106,10 @@ Currently building AI-powered FinTech solutions and quantitative research tools 
 ![Pranav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pranavrana&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavrana&layout=compact&theme=radical&hide_border=true&langs_count=8)
 
+
 ## 🎯 Expertise Areas
+
+<div align="center">
 
 - **AI/ML**: Neural Networks, NLP, User Behavior Analysis, Predictive Modeling
 - **Web Development**: Front-End Development (React/Next.js), Performance Optimization, Responsive Design  
@@ -122,6 +125,7 @@ Always interested in collaborating on **AI/ML projects**, **FinTech innovations*
 - 💬 Ask me about **Python, React, Machine Learning, or FinTech**
 - ⚡ Fun fact: I can debug code faster with coffee ☕
 
+</div>
 ---
 
 <div align="center">
