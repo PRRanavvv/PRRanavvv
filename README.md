@@ -99,14 +99,6 @@ Currently building AI-powered FinTech solutions and quantitative research tools 
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-![Pranav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pranavrana&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavrana&layout=compact&theme=radical&hide_border=true&langs_count=8)
-
-</div>
 
 ## 🎯 Expertise Areas
 
