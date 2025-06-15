@@ -28,6 +28,14 @@ Currently building AI-powered FinTech solutions and quantitative research tools 
 
 ## 🏗️ Featured Projects
 
+### 🚗 Purchase Pulse
+*Advanced Machine Learning Car Price Prediction System*
+- End-to-end ML system predicting car prices with 94% R² accuracy
+- Advanced analytics dashboard with depreciation forecasting & feature importance radar charts
+- Built with ensemble models (Random Forest + Gradient Boosting) and 15+ engineered features
+- Live web deployment on Hugging Face Spaces with modern Gradio interface
+- Real-time predictions with comprehensive market intelligence & optimal selling zone analysis
+
 ### ♾️ qrGPT
 *AI-Powered QR Code Generator*  
 - Revolutionary QR code generator that creates **visually stunning, artistic QR codes** using AI
@@ -41,13 +49,6 @@ Currently building AI-powered FinTech solutions and quantitative research tools 
 - YouTube-inspired platform with modern UI/UX design
 - Built with **React.js** and **Tailwind CSS**
 - Features video playback, search functionality, and responsive design
-
-### 🚗 Purchase-Pulse 
-*Machine Learning Car Price Prediction System*
-- End-to-end ML system predicting car prices with **85% R² accuracy**
-- Engineered **6 advanced features** (power-to-weight ratio, performance scores)
-- Built with **Python**, **Scikit-Learn**, **Pandas** with modern **Tkinter GUI**
-- Implemented **5 regression algorithms** with automated model selection
 
 ### 😴 Sleep Stage Classification  (initial phase)
 *Deep Learning Project*
@@ -76,10 +77,11 @@ Currently building AI-powered FinTech solutions and quantitative research tools 
 ![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Replicate](https://img.shields.io/badge/Replicate-000000?style=for-the-badge&logo=replicate&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-FF6F00?style=for-the-badge&logo=gradio&logoColor=white)
 
 ### Backend & Databases
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
@@ -88,6 +90,7 @@ Currently building AI-powered FinTech solutions and quantitative research tools 
 
 ### Cloud & Deployment
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
@@ -100,18 +103,17 @@ Currently building AI-powered FinTech solutions and quantitative research tools 
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
-
-
 ## 🎯 Expertise Areas
 
 <div>
 
-- **AI/ML**: Neural Networks, NLP, User Behavior Analysis, Predictive Modeling
-- **Web Development**: Front-End Development (React/Next.js), Performance Optimization, Responsive Design  
-- **FinTech**: Quantitative Analysis, Financial Data Analysis, Trading Algorithms
-- **Cloud & DevOps**: Azure, Vercel, Firebase, Database Management  
+- **AI/ML**: Ensemble Learning, Predictive Modeling, Feature Engineering, Real-time Analytics
+- **Data Visualization**: Interactive Dashboards, Statistical Analysis, Market Intelligence Systems
+- **Web Development**: Frontend Development (React/Next.js), Performance Optimization, Modern UI/UX  
+- **FinTech**: Quantitative Analysis, Financial Modeling, Valuation Systems, Trading Algorithms
+- **Cloud & DevOps**: Azure, Hugging Face Spaces, Firebase, Scalable ML Deployment
 
-Always interested in collaborating on **AI/ML projects**, **FinTech innovations**, and **frontend development**. Open to discussing opportunities in quantitative research and financial technology.
+Always interested in collaborating on **machine learning projects**, **data-driven applications**, and **FinTech innovations**. Open to discussing opportunities in quantitative research, automotive analytics, and financial technology.
 
 </div>
 
