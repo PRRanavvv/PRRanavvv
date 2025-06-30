@@ -28,6 +28,16 @@ Currently building AI-powered FinTech solutions and quantitative research tools 
 
 ## 🏗️ Featured Projects
 
+### 🎓 SkillBridge
+*AI-Powered Job Matching & Skill Development Platform*
+- **Lead AI Engineer & Frontend Development** - Architecting intelligent matching algorithms and building intuitive user interfaces
+- Revolutionary platform addressing India's 65% skill-job mismatch crisis with AI-first approach
+- Building adaptive skill assessments, semantic job matching beyond keyword hunting, and personalized ML-powered learning paths
+- **Technical Leadership**: Designing dynamic assessment algorithms that adapt to user performance, implementing computer vision for practical skill demonstrations
+- **Frontend Innovation**: Creating responsive React/TypeScript interfaces with Tailwind CSS, focusing on accessibility and multi-language support
+- **AI Integration**: Developing TensorFlow-based matching engines, Google Gemini integration for intelligent recommendations, and real-time analytics dashboards
+- Scaling to serve 100K+ users in Year 1 with blockchain-verified credentials and gamified learning experiences
+
 ### 🚗 Purchase Pulse
 *Advanced Machine Learning Car Price Prediction System*
 - End-to-end ML system predicting car prices with 94% R² accuracy
@@ -107,9 +117,9 @@ Currently building AI-powered FinTech solutions and quantitative research tools 
 
 <div>
 
-- **AI/ML**: Ensemble Learning, Predictive Modeling, Feature Engineering, Real-time Analytics
+- **AI/ML**: Ensemble Learning, Predictive Modeling, Feature Engineering, Real-time Analytics, Semantic Matching Algorithms
 - **Data Visualization**: Interactive Dashboards, Statistical Analysis, Market Intelligence Systems
-- **Web Development**: Frontend Development (React/Next.js), Performance Optimization, Modern UI/UX  
+- **Web Development**: Frontend Development (React/Next.js), Performance Optimization, Modern UI/UX, Responsive Design  
 - **FinTech**: Quantitative Analysis, Financial Modeling, Valuation Systems, Trading Algorithms
 - **Cloud & DevOps**: Azure, Hugging Face Spaces, Firebase, Scalable ML Deployment
 
