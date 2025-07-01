@@ -46,14 +46,6 @@ Currently building AI-powered FinTech solutions and quantitative research tools 
 - Live web deployment on Hugging Face Spaces with modern Gradio interface
 - Real-time predictions with comprehensive market intelligence & optimal selling zone analysis
 
-### ♾️ qrGPT
-*AI-Powered QR Code Generator*  
-- Revolutionary QR code generator that creates **visually stunning, artistic QR codes** using AI
-- Built with **Next.js**, **TypeScript**, and **Replicate AI** for advanced model inference
-- Features real-time generation, scalable storage with **Vercel Blob**, and rate limiting
-- Deployed on **Vercel** with edge computing for optimal performance
-- Combines traditional QR functionality with cutting-edge AI artistry
-
 ### 🍵 ChaiTube
 *Video Streaming Platform*
 - YouTube-inspired platform with modern UI/UX design
